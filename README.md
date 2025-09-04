@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo Gilmar Santos</h1>
-<h3 align="center">Sou estudante de Ciência de Dados apaixonado por análise de dados e descobrir insights valiosos. Estou em busca de um estágio na área onde possa aplicar meus conhecimentos e continuar aprendendo. Minhas áreas de interesse incluem análise de dados e métricas, machine learning, visualização de dados e desenvolvimento de soluções baseadas em dados.</h3>
+<h3 align="center">Sou estudante de Administração apaixonado por análise de dados e descobrir insights valiosos. Estou em busca de um estágio na área onde possa aplicar meus conhecimentos e continuar aprendendo. Minhas áreas de interesse incluem análise de dados e métricas, comércio exterior, visualização de dados e desenvolvimento de soluções baseadas em dados.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gilmar-csantos&label=Profile%20views&color=0e75b6&style=flat" alt="gilmar-csantos" /> </p>
 
