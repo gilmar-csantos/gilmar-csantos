@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou aprendendo **Python, SQL, Java e Machine Learning**
 
-- 📫 Você me acha através do email **gilmarcostasantos@yahoo.com**
+- 📫 Você me acha através do email **costasantos.gilmar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
